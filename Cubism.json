@@ -1,11 +1,10 @@
 {
-  "$type": "Assets.Scripts.Models.Map.MapModel, Assembly-CSharp",
+  "$type": "Il2CppAssets.Scripts.Models.Map.MapModel, Assembly-CSharp",
   "areas": [
     {
-      "$type": "Assets.Scripts.Models.Map.AreaModel, Assembly-CSharp",
-      "id": 1,
+      "$type": "Il2CppAssets.Scripts.Models.Map.AreaModel, Assembly-CSharp",
       "polygon": {
-        "$type": "Assets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
+        "$type": "Il2CppAssets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
         "points": [
           {
             "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
@@ -27,7 +26,23 @@
             "x": -150.0,
             "y": -116.0
           }
-        ]
+        ],
+        "boundsMin": {
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+          "x": -150.0,
+          "y": -116.0,
+          "MagnitudeSquared": 35956.0,
+          "Magnitude": 189.62067,
+          "Rotation": -127.71597
+        },
+        "boundsMax": {
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+          "x": 150.0,
+          "y": 116.0,
+          "MagnitudeSquared": 35956.0,
+          "Magnitude": 189.62067,
+          "Rotation": 52.284023
+        }
       },
       "holes": null,
       "height": 0.0,
@@ -41,21 +56,24 @@
       "isInputBlocking": false,
       "ignoreZAxisTowerCollision": false,
       "pivotPoint": {
-        "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+        "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
         "x": 0.0,
-        "y": 0.0
+        "y": 0.0,
+        "MagnitudeSquared": 0.0,
+        "Magnitude": 0.0,
+        "Rotation": 0.0
       },
       "buffs": null,
       "blockerCircles": null,
       "customAreaCategoryLayerId": -1,
-      "name": "AreaModel_BaseArea",
-      "ImplementationType": "Assets.Scripts.Simulation.Track.Area, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      "doesNotHighlight": false,
+      "lockedArea": false,
+      "name": "AreaModel_BaseArea"
     },
     {
-      "$type": "Assets.Scripts.Models.Map.AreaModel, Assembly-CSharp",
-      "id": 2,
+      "$type": "Il2CppAssets.Scripts.Models.Map.AreaModel, Assembly-CSharp",
       "polygon": {
-        "$type": "Assets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
+        "$type": "Il2CppAssets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
         "points": [
           {
             "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
@@ -202,11 +220,27 @@
             "x": -191.8,
             "y": -100.1
           }
-        ]
+        ],
+        "boundsMin": {
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+          "x": -191.8,
+          "y": -105.0,
+          "MagnitudeSquared": 47812.242,
+          "Magnitude": 218.66011,
+          "Rotation": -118.698296
+        },
+        "boundsMax": {
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+          "x": 193.73218,
+          "y": 102.8986,
+          "MagnitudeSquared": 48120.277,
+          "Magnitude": 219.36334,
+          "Rotation": 62.025517
+        }
       },
       "holes": [
         {
-          "$type": "Assets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
           "points": [
             {
               "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
@@ -223,10 +257,26 @@
               "x": 48.2059021,
               "y": -44.3318176
             }
-          ]
+          ],
+          "boundsMin": {
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "x": -26.886814,
+            "y": -94.6469,
+            "MagnitudeSquared": 9680.936,
+            "Magnitude": 98.39175,
+            "Rotation": -164.14148
+          },
+          "boundsMax": {
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "x": 48.205902,
+            "y": -28.203127,
+            "MagnitudeSquared": 3119.2256,
+            "Magnitude": 55.85003,
+            "Rotation": 120.33
+          }
         },
         {
-          "$type": "Assets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
           "points": [
             {
               "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
@@ -243,10 +293,26 @@
               "x": 84.3900757,
               "y": -5.934662
             }
-          ]
+          ],
+          "boundsMin": {
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "x": 57.993347,
+            "y": -46.805984,
+            "MagnitudeSquared": 5554.0283,
+            "Magnitude": 74.52535,
+            "Rotation": 128.90674
+          },
+          "boundsMax": {
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "x": 86.38983,
+            "y": -5.934662,
+            "MagnitudeSquared": 7498.4233,
+            "Magnitude": 86.59344,
+            "Rotation": 93.92983
+          }
         },
         {
-          "$type": "Assets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
           "points": [
             {
               "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
@@ -263,10 +329,26 @@
               "x": -43.5940552,
               "y": -2.93697357
             }
-          ]
+          ],
+          "boundsMin": {
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "x": -59.392097,
+            "y": -19.793518,
+            "MagnitudeSquared": 3919.2046,
+            "Magnitude": 62.60355,
+            "Rotation": -108.43161
+          },
+          "boundsMax": {
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "x": -35.39507,
+            "y": -2.9369736,
+            "MagnitudeSquared": 1261.4368,
+            "Magnitude": 35.516712,
+            "Rotation": -94.743355
+          }
         },
         {
-          "$type": "Assets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
           "points": [
             {
               "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
@@ -298,10 +380,26 @@
               "x": -83.8680038,
               "y": 38.13726
             }
-          ]
+          ],
+          "boundsMin": {
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "x": -102.58674,
+            "y": -13.558907,
+            "MagnitudeSquared": 10707.883,
+            "Magnitude": 103.4789,
+            "Rotation": -97.52915
+          },
+          "boundsMax": {
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "x": -45.39383,
+            "y": 38.13726,
+            "MagnitudeSquared": 3515.0505,
+            "Magnitude": 59.28786,
+            "Rotation": -49.964973
+          }
         },
         {
-          "$type": "Assets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
           "points": [
             {
               "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
@@ -318,10 +416,26 @@
               "x": 21.9978333,
               "y": 41.5630341
             }
-          ]
+          ],
+          "boundsMin": {
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "x": -9.39827,
+            "y": 6.233568,
+            "MagnitudeSquared": 127.184845,
+            "Magnitude": 11.277626,
+            "Rotation": -56.44497
+          },
+          "boundsMax": {
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "x": 27.597145,
+            "y": 41.563034,
+            "MagnitudeSquared": 2489.0884,
+            "Magnitude": 49.890766,
+            "Rotation": 33.58348
+          }
         },
         {
-          "$type": "Assets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
           "points": [
             {
               "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
@@ -338,10 +452,26 @@
               "x": 101.987915,
               "y": 41.22297
             }
-          ]
+          ],
+          "boundsMin": {
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "x": 77.39096,
+            "y": 25.98282,
+            "MagnitudeSquared": 6664.468,
+            "Magnitude": 81.63619,
+            "Rotation": 71.44132
+          },
+          "boundsMax": {
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "x": 122.98532,
+            "y": 41.22297,
+            "MagnitudeSquared": 16824.723,
+            "Magnitude": 129.71014,
+            "Rotation": 71.46957
+          }
         },
         {
-          "$type": "Assets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
           "points": [
             {
               "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
@@ -363,7 +493,23 @@
               "x": -44.4166069,
               "y": 25.2159061
             }
-          ]
+          ],
+          "boundsMin": {
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "x": -48.756256,
+            "y": 3.8052979,
+            "MagnitudeSquared": 2391.6528,
+            "Magnitude": 48.90453,
+            "Rotation": -85.53726
+          },
+          "boundsMax": {
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "x": -21.732086,
+            "y": 25.215906,
+            "MagnitudeSquared": 1108.1255,
+            "Magnitude": 33.288517,
+            "Rotation": -40.756092
+          }
         }
       ],
       "height": 0.0,
@@ -377,21 +523,24 @@
       "isInputBlocking": false,
       "ignoreZAxisTowerCollision": false,
       "pivotPoint": {
-        "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+        "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
         "x": 0.0,
-        "y": 0.0
+        "y": 0.0,
+        "MagnitudeSquared": 0.0,
+        "Magnitude": 0.0,
+        "Rotation": 0.0
       },
       "buffs": null,
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
-      "name": "AreaModel_Track",
-      "ImplementationType": "Assets.Scripts.Simulation.Track.Area, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      "doesNotHighlight": false,
+      "lockedArea": false,
+      "name": "AreaModel_Track"
     },
     {
-      "$type": "Assets.Scripts.Models.Map.AreaModel, Assembly-CSharp",
-      "id": 3,
+      "$type": "Il2CppAssets.Scripts.Models.Map.AreaModel, Assembly-CSharp",
       "polygon": {
-        "$type": "Assets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
+        "$type": "Il2CppAssets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
         "points": [
           {
             "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
@@ -408,7 +557,23 @@
             "x": -16.6716042,
             "y": -35.23175
           }
-        ]
+        ],
+        "boundsMin": {
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+          "x": -16.671604,
+          "y": -83.972244,
+          "MagnitudeSquared": 7329.2803,
+          "Magnitude": 85.61121,
+          "Rotation": -168.77069
+        },
+        "boundsMax": {
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+          "x": 38.611557,
+          "y": -35.23175,
+          "MagnitudeSquared": 2732.1284,
+          "Magnitude": 52.269764,
+          "Rotation": 132.37941
+        }
       },
       "holes": null,
       "height": 0.0,
@@ -422,21 +587,24 @@
       "isInputBlocking": false,
       "ignoreZAxisTowerCollision": false,
       "pivotPoint": {
-        "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+        "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
         "x": 0.0,
-        "y": 0.0
+        "y": 0.0,
+        "MagnitudeSquared": 0.0,
+        "Magnitude": 0.0,
+        "Rotation": 0.0
       },
       "buffs": null,
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
-      "name": "AreaModel_WaterMid",
-      "ImplementationType": "Assets.Scripts.Simulation.Track.Area, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      "doesNotHighlight": false,
+      "lockedArea": false,
+      "name": "AreaModel_WaterMid"
     },
     {
-      "$type": "Assets.Scripts.Models.Map.AreaModel, Assembly-CSharp",
-      "id": 4,
+      "$type": "Il2CppAssets.Scripts.Models.Map.AreaModel, Assembly-CSharp",
       "polygon": {
-        "$type": "Assets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
+        "$type": "Il2CppAssets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
         "points": [
           {
             "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
@@ -463,7 +631,23 @@
             "x": 32.0102463,
             "y": 142.841553
           }
-        ]
+        ],
+        "boundsMin": {
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+          "x": 32.010246,
+          "y": 55.132744,
+          "MagnitudeSquared": 4064.2754,
+          "Magnitude": 63.75167,
+          "Rotation": 30.139585
+        },
+        "boundsMax": {
+          "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+          "x": 196.42874,
+          "y": 142.84155,
+          "MagnitudeSquared": 58987.96,
+          "Magnitude": 242.87437,
+          "Rotation": 53.975624
+        }
       },
       "holes": null,
       "height": 0.0,
@@ -477,32 +661,39 @@
       "isInputBlocking": false,
       "ignoreZAxisTowerCollision": false,
       "pivotPoint": {
-        "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+        "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
         "x": 0.0,
-        "y": 0.0
+        "y": 0.0,
+        "MagnitudeSquared": 0.0,
+        "Magnitude": 0.0,
+        "Rotation": 0.0
       },
       "buffs": null,
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
-      "name": "AreaModel_WaterSouth",
-      "ImplementationType": "Assets.Scripts.Simulation.Track.Area, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      "doesNotHighlight": false,
+      "lockedArea": false,
+      "name": "AreaModel_WaterSouth"
     }
   ],
   "blockers": [],
   "coopAreaLayouts": [
     {
-      "$type": "Assets.Scripts.Models.Map.CoopAreaLayoutModel, Assembly-CSharp",
+      "$type": "Il2CppAssets.Scripts.Models.Map.CoopAreaLayoutModel, Assembly-CSharp",
       "areaModels": [
         {
-          "$type": "Assets.Scripts.Models.Map.CoopAreaModel, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.CoopAreaModel, Assembly-CSharp",
           "areaIndex": 0,
           "marker": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
             "x": 0.0,
-            "y": 0.0
+            "y": 0.0,
+            "MagnitudeSquared": 0.0,
+            "Magnitude": 0.0,
+            "Rotation": 180.0
           },
           "polygon": {
-            "$type": "Assets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
             "points": [
               {
                 "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
@@ -524,30 +715,47 @@
                 "x": -176.0,
                 "y": 135.0
               }
-            ]
+            ],
+            "boundsMin": {
+              "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+              "x": -176.0,
+              "y": -135.0,
+              "MagnitudeSquared": 49201.0,
+              "Magnitude": 221.81299,
+              "Rotation": -127.48985
+            },
+            "boundsMax": {
+              "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+              "x": 176.0,
+              "y": 135.0,
+              "MagnitudeSquared": 49201.0,
+              "Magnitude": 221.81299,
+              "Rotation": 52.510155
+            }
           },
           "holes": null,
-          "name": "CoopAreaModel_",
-          "ImplementationType": null
+          "name": ""
         }
       ],
       "areaLayoutType": 2,
-      "name": "CoopAreaLayoutModel_",
-      "ImplementationType": null
+      "name": ""
     },
     {
-      "$type": "Assets.Scripts.Models.Map.CoopAreaLayoutModel, Assembly-CSharp",
+      "$type": "Il2CppAssets.Scripts.Models.Map.CoopAreaLayoutModel, Assembly-CSharp",
       "areaModels": [
         {
-          "$type": "Assets.Scripts.Models.Map.CoopAreaModel, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.CoopAreaModel, Assembly-CSharp",
           "areaIndex": 0,
           "marker": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
             "x": 0.0,
-            "y": 0.0
+            "y": 0.0,
+            "MagnitudeSquared": 0.0,
+            "Magnitude": 0.0,
+            "Rotation": 180.0
           },
           "polygon": {
-            "$type": "Assets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Polygon, Assembly-CSharp",
             "points": [
               {
                 "$type": "Assets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
@@ -569,16 +777,30 @@
                 "x": -176.0,
                 "y": 135.0
               }
-            ]
+            ],
+            "boundsMin": {
+              "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+              "x": -176.0,
+              "y": -135.0,
+              "MagnitudeSquared": 49201.0,
+              "Magnitude": 221.81299,
+              "Rotation": -127.48985
+            },
+            "boundsMax": {
+              "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector2, Assembly-CSharp",
+              "x": 176.0,
+              "y": 135.0,
+              "MagnitudeSquared": 49201.0,
+              "Magnitude": 221.81299,
+              "Rotation": 52.510155
+            }
           },
           "holes": null,
-          "name": "CoopAreaModel_",
-          "ImplementationType": null
+          "name": ""
         }
       ],
       "areaLayoutType": 2,
-      "name": "CoopAreaLayoutModel_",
-      "ImplementationType": null
+      "name": ""
     }
   ],
   "removeables": [],
@@ -587,17 +809,21 @@
   "simBehaviors": [],
   "paths": [
     {
-      "$type": "Assets.Scripts.Models.Map.PathModel, Assembly-CSharp",
+      "$type": "Il2CppAssets.Scripts.Models.Map.PathModel, Assembly-CSharp",
       "pathId": "Path",
       "points": [
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": -318.3,
             "y": -185.7,
-            "z": 0.0
+            "z": 0.0,
+            "MagnitudeSquared": 135799.38,
+            "Magnitude": 368.50967,
+            "Rotation": -120.259796,
+            "SimToDispRotation": -59.740204
           },
           "rotation": 0.0,
           "distance": 0.0,
@@ -605,16 +831,21 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": -200.5,
             "y": -109.0,
-            "z": 0.0
+            "z": 0.0,
+            "MagnitudeSquared": 52081.25,
+            "Magnitude": 228.21317,
+            "Rotation": -118.53031,
+            "SimToDispRotation": -61.46969
           },
           "rotation": 0.0,
           "distance": 140.56929,
@@ -622,16 +853,21 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": 24.4,
             "y": 45.7,
-            "z": 0.0
+            "z": 0.0,
+            "MagnitudeSquared": 2683.85,
+            "Magnitude": 51.80589,
+            "Rotation": 28.098509,
+            "SimToDispRotation": 151.90149
           },
           "rotation": 0.0,
           "distance": 413.53833,
@@ -639,33 +875,43 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": 32.4,
             "y": 2.5,
-            "z": 0.0
+            "z": 0.0,
+            "MagnitudeSquared": 1056.0101,
+            "Magnitude": 32.49631,
+            "Rotation": 85.587776,
+            "SimToDispRotation": 94.41223
           },
           "rotation": 0.0,
-          "distance": 457.472839,
+          "distance": 457.47284,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": -85.7,
             "y": 41.5,
-            "z": 0.0
+            "z": 0.0,
+            "MagnitudeSquared": 9066.739,
+            "Magnitude": 95.21943,
+            "Rotation": -64.16154,
+            "SimToDispRotation": -115.83846
           },
           "rotation": 0.0,
           "distance": 581.8457,
@@ -673,16 +919,21 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": -107.0,
             "y": -6.7,
-            "z": 0.0
+            "z": 0.0,
+            "MagnitudeSquared": 11493.89,
+            "Magnitude": 107.20956,
+            "Rotation": -93.58301,
+            "SimToDispRotation": -86.417
           },
           "rotation": 0.0,
           "distance": 634.5423,
@@ -690,33 +941,43 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": 89.4,
             "y": -50.1,
-            "z": 0.0
+            "z": 0.0,
+            "MagnitudeSquared": 10502.37,
+            "Magnitude": 102.48107,
+            "Rotation": 119.26639,
+            "SimToDispRotation": 60.733612
           },
           "rotation": 0.0,
-          "distance": 835.680359,
+          "distance": 835.68036,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": 87.5,
             "y": 0.1,
-            "z": 0.0
+            "z": 0.0,
+            "MagnitudeSquared": 7656.26,
+            "Magnitude": 87.50005,
+            "Rotation": 89.934525,
+            "SimToDispRotation": 90.06548
           },
           "rotation": 0.0,
           "distance": 885.9163,
@@ -724,126 +985,162 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": 6.0,
             "y": -99.2,
-            "z": 0.0
+            "z": 0.0,
+            "MagnitudeSquared": 9876.64,
+            "Magnitude": 99.38129,
+            "Rotation": 176.53876,
+            "SimToDispRotation": 3.4612541
           },
           "rotation": 0.0,
-          "distance": 1014.37927,
+          "distance": 1014.3793,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": -52.0,
-            "y": 20.2649956,
-            "z": 0.0
+            "y": 20.264996,
+            "z": 0.0,
+            "MagnitudeSquared": 3114.67,
+            "Magnitude": 55.809227,
+            "Rotation": -68.70857,
+            "SimToDispRotation": -111.291435
           },
           "rotation": 0.0,
-          "distance": 1147.17944,
+          "distance": 1147.1794,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": 26.5,
             "y": 99.8,
-            "z": 0.0
+            "z": 0.0,
+            "MagnitudeSquared": 10662.291,
+            "Magnitude": 103.25837,
+            "Rotation": 14.870654,
+            "SimToDispRotation": 165.12935
           },
           "rotation": 0.0,
-          "distance": 1258.92944,
+          "distance": 1258.9294,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": 129.9,
             "y": 23.0,
-            "z": 0.0
+            "z": 0.0,
+            "MagnitudeSquared": 17403.008,
+            "Magnitude": 131.92046,
+            "Rotation": 79.95931,
+            "SimToDispRotation": 100.04069
           },
           "rotation": 0.0,
-          "distance": 1387.73083,
+          "distance": 1387.7308,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": 67.5,
             "y": 35.2,
-            "z": 0.0
+            "z": 0.0,
+            "MagnitudeSquared": 5795.29,
+            "Magnitude": 76.1268,
+            "Rotation": 62.458794,
+            "SimToDispRotation": 117.54121
           },
           "rotation": 0.0,
-          "distance": 1451.31226,
+          "distance": 1451.3123,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": 199.7,
             "y": 69.6,
-            "z": 0.0
+            "z": 0.0,
+            "MagnitudeSquared": 44724.25,
+            "Magnitude": 211.48108,
+            "Rotation": 70.78539,
+            "SimToDispRotation": 109.21461
           },
           "rotation": 0.0,
-          "distance": 1587.91455,
+          "distance": 1587.9146,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
-          "$type": "Assets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
+          "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
           "id": null,
           "point": {
-            "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+            "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
             "x": 321.0,
             "y": 99.7,
-            "z": 0.0
+            "z": 0.0,
+            "MagnitudeSquared": 112981.09,
+            "Magnitude": 336.12662,
+            "Rotation": 72.74563,
+            "SimToDispRotation": 107.25437
           },
           "rotation": 0.0,
-          "distance": 1712.89331,
+          "distance": 1712.8933,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         }
       ],
       "isActive": true,
@@ -851,21 +1148,29 @@
       "entryModel": null,
       "exitModel": null,
       "spawnPoint": {
-        "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+        "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
         "x": -1000.0,
         "y": -1000.0,
-        "z": -1000.0
+        "z": -1000.0,
+        "MagnitudeSquared": 3000000.0,
+        "Magnitude": 1732.0508,
+        "Rotation": -135.0,
+        "SimToDispRotation": -45.0
       },
       "leakPoint": {
-        "$type": "Assets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
+        "$type": "Il2CppAssets.Scripts.Simulation.SMath.Vector3, Assembly-CSharp",
         "x": -1000.0,
         "y": -1000.0,
-        "z": -1000.0
+        "z": -1000.0,
+        "MagnitudeSquared": 3000000.0,
+        "Magnitude": 1732.0508,
+        "Rotation": -135.0,
+        "SimToDispRotation": -45.0
       },
       "isCustomPath": false,
       "customPathWidth": 0.0,
-      "name": "PathModel_Path",
-      "ImplementationType": null
+      "hideTrackArrows": false,
+      "name": "PathModel_Path"
     }
   ],
   "spawner": null,
@@ -874,6 +1179,7 @@
   "mapEvents": null,
   "mapWideBloonSpeed": 1.0,
   "bossSpawnDistanceOverride": 0.0,
-  "name": "MapModel_Map",
-  "ImplementationType": "Assets.Scripts.Simulation.Track.Map, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  "trackArrowDistanceOverride": 0.0,
+  "trackArrowAmtOverride": 0,
+  "name": "MapModel_Map"
 }

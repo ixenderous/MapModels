@@ -67,6 +67,7 @@
       "blockerCircles": null,
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BaseArea"
     },
     {
@@ -370,6 +371,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TrackTop"
     },
     {
@@ -448,6 +450,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_NonPlace - LowerRh"
     },
     {
@@ -526,6 +529,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_NonPlace - LowerMiddle"
     },
     {
@@ -604,6 +608,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_NonPlace - LowerLh"
     },
     {
@@ -675,6 +680,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_Land - Bottom"
     },
     {
@@ -773,6 +779,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_Land -Top"
     },
     {
@@ -868,6 +875,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_Land -LeftRange"
     },
     {
@@ -963,6 +971,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_Land -RightRange"
     },
     {
@@ -1062,6 +1071,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot1"
     },
     {
@@ -1154,6 +1164,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot1"
     },
     {
@@ -1298,6 +1309,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot2"
     },
     {
@@ -1388,6 +1400,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot2"
     },
     {
@@ -1477,6 +1490,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot3"
     },
     {
@@ -1569,6 +1583,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot3"
     },
     {
@@ -1637,6 +1652,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot4"
     },
     {
@@ -1731,6 +1747,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot5"
     },
     {
@@ -1823,6 +1840,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot5"
     },
     {
@@ -1962,6 +1980,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot6"
     },
     {
@@ -2054,6 +2073,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot6"
     },
     {
@@ -2146,6 +2166,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot6-2"
     },
     {
@@ -2225,6 +2246,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot7"
     },
     {
@@ -2317,6 +2339,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot7"
     },
     {
@@ -2401,6 +2424,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot8"
     },
     {
@@ -2493,6 +2517,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot8"
     },
     {
@@ -2577,6 +2602,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot9"
     },
     {
@@ -2669,6 +2695,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot9"
     },
     {
@@ -2753,6 +2780,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot10"
     },
     {
@@ -2845,6 +2873,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot10"
     },
     {
@@ -2929,6 +2958,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot11"
     },
     {
@@ -3021,6 +3051,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot11"
     },
     {
@@ -3155,6 +3186,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot12"
     },
     {
@@ -3245,6 +3277,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot12"
     },
     {
@@ -3324,6 +3357,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot13"
     },
     {
@@ -3416,6 +3450,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot13"
     },
     {
@@ -3500,6 +3535,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot14"
     },
     {
@@ -3592,6 +3628,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot14"
     },
     {
@@ -3706,6 +3743,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot15"
     },
     {
@@ -3798,6 +3836,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot15"
     },
     {
@@ -3890,6 +3929,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot15-2"
     },
     {
@@ -3974,6 +4014,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot16"
     },
     {
@@ -4066,6 +4107,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot16"
     },
     {
@@ -4190,6 +4232,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot17"
     },
     {
@@ -4282,6 +4325,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot17"
     },
     {
@@ -4374,6 +4418,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot17-2"
     },
     {
@@ -4453,6 +4498,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot18"
     },
     {
@@ -4545,6 +4591,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot18"
     },
     {
@@ -4624,6 +4671,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot19"
     },
     {
@@ -4716,6 +4764,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot19"
     },
     {
@@ -4800,6 +4849,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot20"
     },
     {
@@ -4892,6 +4942,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot20"
     },
     {
@@ -5016,6 +5067,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot21"
     },
     {
@@ -5108,6 +5160,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot21"
     },
     {
@@ -5200,6 +5253,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot21-2"
     },
     {
@@ -5289,6 +5343,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot22"
     },
     {
@@ -5381,6 +5436,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot22"
     },
     {
@@ -5460,6 +5516,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot23"
     },
     {
@@ -5552,6 +5609,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot23"
     },
     {
@@ -5636,6 +5694,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BlockerPlot24"
     },
     {
@@ -5728,6 +5787,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_LandPlot24"
     },
     {
@@ -6112,6 +6172,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_Blocker"
     },
     {
@@ -6361,6 +6422,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_Blocker (1)"
     },
     {
@@ -7070,6 +7132,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_Blocker (2)"
     },
     {
@@ -7579,6 +7642,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_Blocker (3)"
     }
   ],
@@ -11063,7 +11127,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11084,7 +11149,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11105,7 +11171,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11126,7 +11193,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11147,7 +11215,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11168,7 +11237,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11189,7 +11259,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11210,7 +11281,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11231,7 +11303,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11252,7 +11325,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11273,7 +11347,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11294,7 +11369,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11315,7 +11391,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11336,7 +11413,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11357,7 +11435,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -11378,7 +11457,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         }
       ],
       "isActive": true,

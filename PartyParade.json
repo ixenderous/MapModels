@@ -67,6 +67,7 @@
       "blockerCircles": null,
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_BaseArea"
     },
     {
@@ -175,6 +176,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TrackEdge1"
     },
     {
@@ -283,6 +285,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TrackEdge2"
     },
     {
@@ -577,6 +580,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TreeTopLeft"
     },
     {
@@ -696,6 +700,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TreeTopRight"
     },
     {
@@ -995,6 +1000,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TreeMiddleLeft"
     },
     {
@@ -1234,6 +1240,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TreeMiddleRight"
     },
     {
@@ -1563,6 +1570,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TreeBottomLeft"
     },
     {
@@ -1697,6 +1705,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TreeBottomRight"
     },
     {
@@ -2106,6 +2115,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_Hedges"
     },
     {
@@ -2295,6 +2305,7 @@
       ],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": true,
+      "lockedArea": false,
       "name": "AreaModel_HedgePot"
     },
     {
@@ -2363,6 +2374,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesTopLeft"
     },
     {
@@ -2431,6 +2443,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesTopLeft (1)"
     },
     {
@@ -2499,6 +2512,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesTopLeft (2)"
     },
     {
@@ -2567,6 +2581,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesTopLeft (3)"
     },
     {
@@ -2635,6 +2650,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesTopRight"
     },
     {
@@ -2703,6 +2719,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesTopRight2"
     },
     {
@@ -2771,6 +2788,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesTopRight2 (1)"
     },
     {
@@ -2839,6 +2857,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesTopRight2 (2)"
     },
     {
@@ -2907,6 +2926,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomLeft"
     },
     {
@@ -2975,6 +2995,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomLeft (4)"
     },
     {
@@ -3043,6 +3064,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomLeft (1)"
     },
     {
@@ -3111,6 +3133,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomLeft (5)"
     },
     {
@@ -3179,6 +3202,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomLeft (2)"
     },
     {
@@ -3247,6 +3271,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomLeft (6)"
     },
     {
@@ -3315,6 +3340,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomLeft (3)"
     },
     {
@@ -3383,6 +3409,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomLeft (7)"
     },
     {
@@ -3451,6 +3478,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomRight"
     },
     {
@@ -3519,6 +3547,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomRight (4)"
     },
     {
@@ -3587,6 +3616,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomRight (1)"
     },
     {
@@ -3655,6 +3685,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomRight (5)"
     },
     {
@@ -3723,6 +3754,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomRight (2)"
     },
     {
@@ -3791,6 +3823,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomRight (6)"
     },
     {
@@ -3859,6 +3892,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomRight (3)"
     },
     {
@@ -3927,6 +3961,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomRight (7)"
     },
     {
@@ -3995,6 +4030,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_Hedges"
     },
     {
@@ -4063,6 +4099,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesTopLeft"
     },
     {
@@ -4131,6 +4168,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesTopRight"
     },
     {
@@ -4199,6 +4237,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomLeft"
     },
     {
@@ -4267,6 +4306,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomLeft (1)"
     },
     {
@@ -4335,6 +4375,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomRight"
     },
     {
@@ -4403,6 +4444,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_FencesBottomRight (1)"
     },
     {
@@ -4511,6 +4553,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TreeTopLeft"
     },
     {
@@ -4644,6 +4687,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TreeTopRight"
     },
     {
@@ -4797,6 +4841,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TreeMiddleLeft"
     },
     {
@@ -4945,6 +4990,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TreeMiddleRight"
     },
     {
@@ -5063,6 +5109,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TreeBottomLeft"
     },
     {
@@ -5171,6 +5218,7 @@
       "blockerCircles": [],
       "customAreaCategoryLayerId": -1,
       "doesNotHighlight": false,
+      "lockedArea": false,
       "name": "AreaModel_TreeBottomRight"
     }
   ],
@@ -7496,7 +7544,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7517,7 +7566,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7538,7 +7588,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7559,7 +7610,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7580,7 +7632,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7601,7 +7654,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         }
       ],
       "isActive": true,
@@ -7656,7 +7710,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7677,7 +7732,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7698,7 +7754,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7719,7 +7776,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7740,7 +7798,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7761,7 +7820,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         }
       ],
       "isActive": true,
@@ -7816,7 +7876,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7837,7 +7898,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7858,7 +7920,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7879,7 +7942,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7900,7 +7964,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         },
         {
           "$type": "Il2CppAssets.Scripts.Models.Map.PointInfo, Assembly-CSharp",
@@ -7921,7 +7986,8 @@
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
           "moabsInvulnerable": false,
-          "bloonSpeedMultiplier": 1.0
+          "bloonSpeedMultiplier": 1.0,
+          "disablePathTargeting": false
         }
       ],
       "isActive": true,
