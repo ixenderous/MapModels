@@ -5361,7 +5361,7 @@
             "SimToDispRotation": 60.054493
           },
           "rotation": 0.0,
-          "distance": 322.90015,
+          "distance": 0.0,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
@@ -5383,7 +5383,7 @@
             "SimToDispRotation": 127.30548
           },
           "rotation": 0.0,
-          "distance": 441.60355,
+          "distance": 0.0,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
@@ -5405,7 +5405,7 @@
             "SimToDispRotation": 106.035645
           },
           "rotation": 0.0,
-          "distance": 589.4037,
+          "distance": 0.0,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
@@ -5483,7 +5483,7 @@
             "SimToDispRotation": 50.73251
           },
           "rotation": 0.0,
-          "distance": 281.60007,
+          "distance": 0.0,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
@@ -5505,7 +5505,7 @@
             "SimToDispRotation": -52.384113
           },
           "rotation": 0.0,
-          "distance": 365.20013,
+          "distance": 0.0,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
@@ -5527,7 +5527,7 @@
             "SimToDispRotation": -9.145843
           },
           "rotation": 0.0,
-          "distance": 599.70013,
+          "distance": 0.0,
           "bloonScale": 1.0,
           "moabScale": 1.0,
           "bloonsInvulnerable": false,
